@@ -1,0 +1,5 @@
+{
+  "name": "Reis Fit",
+  "description": "A personal workout assistant PWA to track progress, streaks, create and edit workouts, and view history. It works completely offline, storing all data locally in your browser.",
+  "requestFramePermissions": []
+}
